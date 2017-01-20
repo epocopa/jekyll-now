@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hola! Me llamo Dani y soy estudiante de Ingenieía de Software. Me apasiona el software libre y coordino el [Club de Jóvenes Programadores Madrid](https://twitter.com/CJPmadrid)
+### Más Información
 
-### More Information
+Uso esta web para subir contenido relacionado con la programación y la tecnología en general.
+### Contacto
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[epocopa@gmail.com](mailto:epocopa@gmail.com)
