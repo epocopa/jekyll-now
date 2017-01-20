@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡Hola Mundo!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+¡Por fin tengo una página web personal! Después de intentarlo sin éxito en [Gitlab](https://gitlab.com/epocopa), que es donde subiré mi código a partir de ahora, pues el codigo de gitlab está disponible de forma pública con lincencia GPL(Yo soy muy de software libre) he decidido solo usar github para alojar esta web.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Iré subiedo artículos relacionados con el mundo de la programación, alguna noticia que me parezca interesante(las comentaré) y alguna otra cosa que se me vaya ocurriendo. Nos vemos ;)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
